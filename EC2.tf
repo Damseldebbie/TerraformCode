@@ -6,4 +6,4 @@ resource "aws_instance" "Mainins" {
        Name = "EC2_Terraform"
  }
 }
-
+#Work in progress
